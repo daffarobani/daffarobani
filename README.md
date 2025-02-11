@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there!
+
+- I'm currently a senior data scientist in AwanTunai, financial technology serving traditional FMCG actors in Indonesia.
+- I'm an aerospace engineering graduate, where I took Fluid Dynamics specialization and my previous research was around Gaussian process and Bayesian Optimization development for aerospace engineering problems.
+- My list of publications can be viewed here: https://scholar.google.com/citations?user=OhLDhgoAAAAJ&hl=en
+- Here's my LinkedIn profile (in any case you want to connect further :D): https://www.linkedin.com/in/muhammad-daffa-robani/
 
 <!--
 **daffarobani/daffarobani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
